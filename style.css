@@ -1,0 +1,49 @@
+body {
+ color: white;
+}
+img {
+ height: 5vh;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  height: 100vh;
+}
+
+.card {
+  width: 200px;
+  height: 300px;
+  background-color: #F7CAC9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  margin: 10px;
+}
+
+.iniciante {
+  background-color: #76bcad;
+}
+
+.intermediario {
+  background-color: #f7bc05;
+}
+
+.dificil {
+  background-color: #fa2e59;
+}
+
+button {
+  background-color: #fffff;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 20px;
+  cursor: pointer;
+  color: grey;
+}
