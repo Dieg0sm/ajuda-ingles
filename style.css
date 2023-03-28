@@ -1,8 +1,23 @@
 body {
  color: white;
 }
-img {
- height: 5vh;
+.aju{
+color: #76bcad;
+font-size: 10vh;
+text-align: center;
+font-family: 'Bukhari Script', cursive;
+}
+.dai{
+color: #f7bc05;
+font-size: 10vh;
+text-align: center;
+font-family: 'Bukhari Script', cursive;
+}
+.ngles{
+color: #fa2e59;
+font-size: 10vh;
+text-align: center;
+font-family: 'Bukhari Script', cursive;
 }
 .container {
   display: flex;
