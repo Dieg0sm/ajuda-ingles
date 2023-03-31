@@ -1,10 +1,11 @@
 body {
  color: white;
- font-size: 10vh;
+ font-size: 25px;
 }
 .aju{
 color: #76bcad;
 font-size: 10vh;
+text-align: center;
 font-family: 'Bukhari Script', cursive;
 }
 .dai{
@@ -28,8 +29,8 @@ font-family: 'Bukhari Script', cursive;
 }
 
 .card {
-  width: 700px;
-  height: 500px;
+  width: 500px;
+  height: 700px;
   background-color: #F7CAC9;
   display: flex;
   justify-content: center;
