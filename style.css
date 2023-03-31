@@ -1,5 +1,6 @@
 body {
  color: white;
+ font-size: 10vh;
 }
 .aju{
 color: #76bcad;
@@ -27,8 +28,8 @@ font-family: 'Bukhari Script', cursive;
 }
 
 .card {
-  width: 200px;
-  height: 300px;
+  width: 700px;
+  height: 500px;
   background-color: #F7CAC9;
   display: flex;
   justify-content: center;
